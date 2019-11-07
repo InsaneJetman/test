@@ -6,7 +6,7 @@ QBasic came complete with four pre-written example programs:
 
 **Gorillas** - an [artillery](https://en.wikipedia.org/wiki/Artillery_game) game
 
-**Nibbles** - a version of the [snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) game
+**Nibbles** - a classic [snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) game
 
 **Money Manager** - a personal finance manager
 
